@@ -9,6 +9,7 @@ class ColorsController < ApplicationController
 
   # GET /colors/1
   # GET /colors/1.json
+  
   def show
   end
 
